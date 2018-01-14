@@ -1,0 +1,12 @@
+[submodule "dfdl-pextract-schema"]
+	path = dfdl-pextract-schema
+	url = https://github.com/keeleleek/dfdl-pextract-schema
+[submodule "pextract-xml"]
+	path = pextract-xml
+	url = https://github.com/keeleleek/pextract-xml
+[submodule "basex-daffodil"]
+	path = basex-daffodil
+	url = https://github.com/keeleleek/basex-daffodil
+[submodule "pextract-votic"]
+	path = pextract-votic
+	url = https://github.com/keeleleek/pextract-votic

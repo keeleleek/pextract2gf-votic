@@ -23,9 +23,9 @@ lab:init-lab()
 ```XQuery
 (: LMF GlobalInformation :)
 let $language-code := "vot"
-let $label := "Votic automatically extracted morphological paradigms"
+let $label   := "Votic automatically extracted morphological paradigms"
 let $comment := "The morphological paradigms has been extracted with the pextract tool."
-let $author := "Kristian Kankainen"
+let $author  := "Kristian Kankainen"
 let $languageCoding := "ISO 639-3"
 
 return lab:init-language-resource(

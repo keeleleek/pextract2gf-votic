@@ -58,3 +58,5 @@ return lab:insert-morphological-patterns-from-pfiles("vot", $pfiles)
 ```XQuery
 lab:get-lexical-resource("vot")
 ```
+
+This output can be seen in [examples/generated-vot-lmf.xml](examples/generated-vot-lmf.xml).

@@ -1,7 +1,8 @@
 # pextract2gf-votic
 
 This is an experimental lab for using the morphological paradigm extractor 
-tool pextract and the Lexical Markup Framework to create automatically
+tool pextract together with the Lexical Markup Framework to automatically 
+create
 * a Votic morphological dictionary
 * human readable documentation of the morphological paradigms
 * source code for the Votic morphology module in the Grammatical Framework

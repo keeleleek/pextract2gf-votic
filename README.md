@@ -1,4 +1,4 @@
-# pextract2gf-votic
+# Paradigm Extract and LMF Lab
 
 This is an experimental lab for using the morphological paradigm extractor 
 tool [pextract](https://github.com/marfors/paradigmextract) together with 

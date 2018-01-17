@@ -12,9 +12,11 @@
       <feat att="comment" val="inflectional paradigm pattern for aapõ"/>
       <feat att="example" val="aapõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="aa"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="aa"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -399,9 +401,11 @@
       <feat att="comment" val="inflectional paradigm pattern for poikõ"/>
       <feat att="example" val="poikõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="poi"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="poi"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -814,9 +818,14 @@
       <feat att="comment" val="inflectional paradigm pattern for aikõ"/>
       <feat att="example" val="aikõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="ai"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="ai"/>
+        </AttestedParadimVariableSet>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="jal"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -1215,9 +1224,11 @@
       <feat att="comment" val="inflectional paradigm pattern for lentüz"/>
       <feat att="example" val="lentüz"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="lentü"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="lentü"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -1560,9 +1571,11 @@
       <feat att="comment" val="inflectional paradigm pattern for ammõz"/>
       <feat att="example" val="ammõz"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="am"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="am"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -1905,10 +1918,12 @@
       <feat att="comment" val="inflectional paradigm pattern for tüttö"/>
       <feat att="example" val="tüttö"/>
       <feat att="partOfSpeech" val="commonNoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="tüt"/>
-        <feat att="2" val="ö"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="tüt"/>
+          <feat att="2" val="ö"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>
@@ -2447,9 +2462,11 @@
       <feat att="comment" val="inflectional paradigm pattern for miä"/>
       <feat att="example" val="miä"/>
       <feat att="partOfSpeech" val="personalPronoun"/>
-      <AttestedVariableValues>
-        <feat att="1" val="m"/>
-      </AttestedVariableValues>
+      <AttestedParadigmVariableSets>
+        <AttestedParadimVariableSet>
+          <feat att="1" val="m"/>
+        </AttestedParadimVariableSet>
+      </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
           <feat att="grammaticalNumber" val="singular"/>

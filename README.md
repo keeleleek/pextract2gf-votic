@@ -8,6 +8,12 @@ to automatically create:
 * human readable documentation of the extracted morphological paradigms (in LMF)
 * source code for the Votic morphology module in the [Grammatical Framework](http://grammaticalframework.org/)
 
+The main idea is to use LMF as an extension for pextract. Paradigm extraction 
+does not need much information, but a linguist does. Both input and output of
+pextract is supplemented by LMF. The input is modelled on top of the Extensional 
+Morphology module and can carry information about corpus attestations of 
+concrete word forms. The output is modelled as LMF Morphological Patterns.
+
 
 
 ## Usage demonstration

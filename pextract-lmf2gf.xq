@@ -63,8 +63,9 @@ declare variable $pos-to-gf-type := map {
 
 
 
+let $base-dir := file:parent(static-base-uri())
+let $lmf-file := doc($base-dir || "examples/generated-vot-lmf.xml")
 
-let $lmf-file := doc("examples/generated-vot-lmf.xml")
 (: @todo instead of just the first POS, loop through all :)
 let $part-of-speeches := distinct-values($lmf-file//feat[@att="partOfSpeech"]/@val)[1]
 
@@ -72,6 +73,8 @@ for $part-of-speech in $part-of-speeches
 return
   
   let $morphological-patterns := $lmf-file//MorphologicalPattern[./feat[@att="partOfSpeech" and @val=$part-of-speech]]
+  
+  let $output-file := $base-dir || "MorphoVot.gf"
   
   (: Generate the GF param section :)
   (: Collect a map of parameter feature names and values :)

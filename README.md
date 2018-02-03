@@ -47,7 +47,7 @@ return lab:init-language-resource(
 
 
 
-### Add the paradigms from the pfiles in the pextract-votic folder 
+### Add paradigms from pfiles
 
 ```XQuery
 let $base := file:parent(static-base-uri())

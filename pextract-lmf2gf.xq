@@ -23,21 +23,33 @@ declare function p:serialize-params ($params-map) as xs:string {
       (for $param-feature in map:keys($params-map)
          let $values := string-join(
              for $value in $params-map?($param-feature)
-               return p:translate($translate-grammatical-features, $value),
+               return p:translate($grammatical-features, $value),
              " | ")
         return concat(
-          "  ", p:translate($translate-grammatical-features, $param-feature), " = ", $values, " ;")
+          "  ", p:translate($grammatical-features, $param-feature), " = ", $values, " ;")
       )
     , out:nl()
   )
 };
 
 
-
-(:~ Simple translation map for stuff like 'singular' = 'Sg'
+(:~ Simple translation functionality using maps. This translates the
+ :  given string to it's corresponding value in the map. If no corresponding
+ :  key is found, the original string is returned.
  : @since 1.0.0
  :)
-declare variable $translate-grammatical-features := map {
+declare function p:translate($translation-map, $string)
+{
+  if($translation-map?($string))
+  then($translation-map?($string))
+  else($string)
+};
+
+
+(:~ Simple translation maps for stuff like 'singular' = 'Sg'
+ : @since 1.0.0
+ :)
+declare variable $grammatical-features := map {
   "singular" : "Sg",
   "plural"   : "Pl",
   "grammaticalNumber" : "Number",
@@ -48,12 +60,6 @@ declare variable $pos-to-gf-type := map {
   "commonNoun" : "Noun"
 };
 
-declare function p:translate($translation-map, $string)
-{
-  if($translation-map?($string))
-  then($translation-map?($string))
-  else($string)
-};
 
 
 

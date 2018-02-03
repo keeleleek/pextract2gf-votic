@@ -2,7 +2,6 @@ xquery version "3.1";
 declare namespace map = "http://www.w3.org/2005/xpath-functions/map";
 import module namespace functx = 'http://www.functx.com';
 import module namespace pfile = 'http://keeleleek.ee/pextract/pfile' at 'pextract-xml/lib/pfile.xqm';
-import module namespace pfile-lmf = 'http://keeleleek.ee/pextract/pfile-lmf' at 'pextract-xml/lib/pfile-lmf.xqm';
 declare namespace p = "http://keeleleek.ee/pextract";
 
 
@@ -45,6 +44,10 @@ declare variable $translate-grammatical-features := map {
   "grammaticalCase"   : "Case"
 };
 declare variable $translate := $translate-grammatical-features;
+
+declare variable $pos-to-gf-type := map {
+  "commonNoun" : "Noun"
+};
 
 declare function p:translate($translation-map, $string)
 {
@@ -244,8 +247,15 @@ return
       let $lemma-capitalized := functx:capitalize-first($lemma)
       let $lemma-mk := "mk" || $lemma-capitalized
       let $variables-list := $lemma-transformset/Process/feat[@att="variableNumber"]/@val
+      let $first-attested-values := map:merge(
+        for $variable in ($paradigm/AttestedParadigmVariableSets)[1]/AttestedParadimVariableSet/feat
+          return map:entry(
+            xs:string($variable/@att),
+            $variable/@val
+          )
+      )
       
-      let $concrete-function := string-join((
+      let $abstract-function := string-join((
         "  mk" || $lemma-capitalized || " : Str -> Noun = \" || $lemma || " -> " || out:nl(),
         "    case " || $lemma || " of {" || out:nl(),
         (: pattern match for appropriate case :)
@@ -257,15 +267,58 @@ return
               return
                 if($constant)
                 then('"' || $constant || '"')
-                else($variable) (: @todo instantiate this variable :)
+                else(p:translate($first-attested-values, $variable))
           ), " + ")
-        , " => mk" || $lemma-capitalized || "Concrete " || string-join($variables-list, " ") || " ;"
+        , " => mk" || $lemma-capitalized || "Concrete " || string-join((for $var in $variables-list return p:translate($first-attested-values, $var)), " ") || " ;"
         , out:nl(),
         (: default case for inappropriate pattern match :)
         '      _ => Predef.error "Unsuitable lemma for ' || $lemma-mk || '"', out:nl(),
         "    } ;"
       ))
-      return $concrete-function || out:nl()
+      
+      let $concrete-function := string-join((
+        "  mk" || $lemma-capitalized || "Concrete : Str -> ",
+        p:translate($pos-to-gf-type, $part-of-speech),
+        " = \" || string-join((
+          for $var in $variables-list
+            return p:translate($first-attested-values, $var)
+          ), ",") || " -> " || out:nl(),
+        "    s = {" || out:nl(),
+        "      table {" || out:nl(),
+        string-join((
+          for $transformset in $paradigm/TransformSet
+            return string-join((
+              "        NF ",
+              (: join grammatical features :)
+              string-join((
+              for $gram-feat in $transformset/GrammaticalFeatures/feat
+                return $gram-feat/@val/data()
+              ), " "),
+              " => ",
+              (: join pattern variables and constants :)
+              string-join((
+                for $process in $transformset/Process
+                return
+                  if($process/feat/@att = "variableNumber")
+                  then(
+                    p:translate(
+                      $first-attested-values,
+                      $process/feat[@att="variableNumber"]/@val)
+                    )
+                  else('"' || $process/feat[@att="stringValue"]/@val || '"')
+              ), " + ")
+            ))
+          ), " ;" || out:nl()),
+        out:nl() || "      }" || out:nl(),
+        "    }"
+      ))
+      
+      return 
+        string-join((
+          $abstract-function,
+          $concrete-function,
+          ""
+        ), out:nl() || out:nl() )
   ), out:nl()
   )
 

@@ -90,7 +90,7 @@ return
   
   return
   
-  file:write($out-file,
+  file:write-text($out-file,
   
   string-join((
     (: the params list :)

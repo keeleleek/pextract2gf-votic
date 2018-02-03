@@ -69,12 +69,13 @@ let $lmf-file := doc($base-dir || "examples/generated-vot-lmf.xml")
 (: @todo instead of just the first POS, loop through all :)
 let $part-of-speeches := distinct-values($lmf-file//feat[@att="partOfSpeech"]/@val)[1]
 
+(: we loop over pos for the sake of grouping all paradigms by their pos :)
 for $part-of-speech in $part-of-speeches
 return
-  
+
   let $morphological-patterns := $lmf-file//MorphologicalPattern[./feat[@att="partOfSpeech" and @val=$part-of-speech]]
   
-  let $output-file := $base-dir || "MorphoVot.gf"
+  let $out-file := $base-dir || "examples/generated-MorphoVot.gf" 
   
   (: Generate the GF param section :)
   (: Collect a map of parameter feature names and values :)
@@ -88,6 +89,9 @@ return
   )
   
   return
+  
+  file:write($out-file,
+  
   string-join((
     (: the params list :)
     "param",
@@ -177,3 +181,4 @@ return
         ), out:nl() || out:nl() )
   ), out:nl()
   )
+)

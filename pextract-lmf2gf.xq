@@ -77,7 +77,7 @@ return
 
   let $morphological-patterns := $lmf-file//MorphologicalPattern[./feat[@att="partOfSpeech" and @val=$part-of-speech]]
   
-  let $morpho-file := $base-dir || "examples/generated-Morpho" || $lang-capitalized ||".gf" 
+  let $morpho-file := $base-dir || "examples/Morpho" || $lang-capitalized ||".gf" 
   
   (: Generate the GF param section :)
   (: Collect a map of parameter feature names and values :)

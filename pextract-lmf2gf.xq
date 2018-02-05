@@ -175,10 +175,11 @@ return
       
       return 
         string-join((
-          $abstract-function,
-          $concrete-function,
-          ""
-        ), out:nl() || out:nl() )
-  ), out:nl()
+            $abstract-function,
+            $concrete-function,
+            ""
+          ), out:nl() || out:nl() 
+        )
+    ), out:nl()
   )
 )

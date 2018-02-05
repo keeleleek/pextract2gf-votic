@@ -95,6 +95,8 @@ return
   file:write-text($morpho-file,
   
   string-join((
+    "resource " || substring-before(file:name($morpho-file), ".gf") || " = {",
+    "",
     (: the params list :)
     (: @todo type definitions should be outputted to ParamLang.gf file :)
     "param",
@@ -106,6 +108,7 @@ return
     "-- Start of " || $part-of-speech || " section",
     "------------------------------------------------",
     "",
+    
     (: generate abstract and concrete functions for each paradigm :)
     for $paradigm in $morphological-patterns
       (: @todo choose lemma here :)
@@ -120,7 +123,7 @@ return
             xs:string($variable/@att),
             $variable/@val
           )
-      )
+        )
       
       let $abstract-function := string-join((
         "  mk" || $lemma-capitalized || " : Str -> Noun = \" || $lemma || " -> " || out:nl(),
@@ -191,6 +194,7 @@ return
             ""
           ), out:nl() || out:nl() 
         )
+    ,"}"
     ), out:nl()
   )
 )

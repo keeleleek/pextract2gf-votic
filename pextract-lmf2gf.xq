@@ -96,6 +96,7 @@ return
   
   string-join((
     (: the params list :)
+    (: @todo type definitions should be outputted to ParamLang.gf file :)
     "param",
     p:serialize-params($params-map),
     "",

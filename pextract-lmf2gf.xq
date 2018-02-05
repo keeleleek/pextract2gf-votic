@@ -145,6 +145,8 @@ return
           ), ",") || " -> " || out:nl(),
         "    s = {" || out:nl(),
         "      table {" || out:nl(),
+        (: each TransformSet is written into a table row :)
+        (: @todo: this should be refactorized as a separate function :)
         string-join((
           for $transformset in $paradigm/TransformSet
             return string-join((
@@ -156,6 +158,8 @@ return
               ), " "),
               " => ",
               (: join pattern variables and constants :)
+              (: variableNumbers are rewritten as their first attestation :)
+              (: stringValues are written within quotation marks :)
               string-join((
                 for $process in $transformset/Process
                 return

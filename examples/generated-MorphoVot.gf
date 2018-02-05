@@ -4,6 +4,10 @@ param
 
 oper
 
+------------------------------------------------
+-- Start of commonNoun section
+------------------------------------------------
+
   mkAapõ : Str -> Noun = \aapõ -> 
     case aapõ of {
       aa + "põ" => mkAapõConcrete aa ;

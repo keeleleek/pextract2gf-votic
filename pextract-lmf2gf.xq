@@ -99,6 +99,10 @@ return
     "",
     "oper",
     "",
+    "------------------------------------------------",
+    "-- Start of " || $part-of-speech || " section",
+    "------------------------------------------------",
+    "",
     (: generate abstract and concrete functions for each paradigm :)
     for $paradigm in $morphological-patterns
       (: @todo choose lemma here :)

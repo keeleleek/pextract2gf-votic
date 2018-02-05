@@ -1,4 +1,4 @@
-resource generated-MorphoVot = {
+resource MorphoVot = {
 
 param
   Number = Sg | Pl ;

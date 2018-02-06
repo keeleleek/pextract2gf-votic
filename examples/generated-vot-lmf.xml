@@ -23,11 +23,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="põ"/>
         </Process>
       </TransformSet>
@@ -37,11 +37,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="võd"/>
         </Process>
       </TransformSet>
@@ -51,11 +51,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="va"/>
         </Process>
       </TransformSet>
@@ -65,11 +65,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poi"/>
         </Process>
       </TransformSet>
@@ -79,11 +79,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pojõ"/>
         </Process>
       </TransformSet>
@@ -93,11 +93,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pa"/>
         </Process>
       </TransformSet>
@@ -107,11 +107,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poi"/>
         </Process>
       </TransformSet>
@@ -121,11 +121,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poitõ"/>
         </Process>
       </TransformSet>
@@ -135,11 +135,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paa"/>
         </Process>
       </TransformSet>
@@ -149,11 +149,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pasõ"/>
         </Process>
       </TransformSet>
@@ -163,11 +163,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poisõ"/>
         </Process>
       </TransformSet>
@@ -177,11 +177,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="vaz"/>
         </Process>
       </TransformSet>
@@ -191,11 +191,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="voiz"/>
         </Process>
       </TransformSet>
@@ -205,11 +205,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="võssõ"/>
         </Process>
       </TransformSet>
@@ -219,11 +219,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poissõ"/>
         </Process>
       </TransformSet>
@@ -233,11 +233,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="võllõ"/>
         </Process>
       </TransformSet>
@@ -247,11 +247,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poillõ"/>
         </Process>
       </TransformSet>
@@ -261,11 +261,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="võl"/>
         </Process>
       </TransformSet>
@@ -275,11 +275,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poil"/>
         </Process>
       </TransformSet>
@@ -289,11 +289,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="võssi"/>
         </Process>
       </TransformSet>
@@ -303,11 +303,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poissi"/>
         </Process>
       </TransformSet>
@@ -317,11 +317,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="passi"/>
         </Process>
       </TransformSet>
@@ -331,11 +331,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poissi"/>
         </Process>
       </TransformSet>
@@ -345,11 +345,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="passaa"/>
         </Process>
       </TransformSet>
@@ -359,11 +359,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poissaa"/>
         </Process>
       </TransformSet>
@@ -373,11 +373,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="vaka"/>
         </Process>
       </TransformSet>
@@ -387,11 +387,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="poika"/>
         </Process>
       </TransformSet>
@@ -412,11 +412,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kõ"/>
         </Process>
       </TransformSet>
@@ -426,11 +426,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõd"/>
         </Process>
       </TransformSet>
@@ -440,11 +440,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ga"/>
         </Process>
       </TransformSet>
@@ -454,11 +454,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ki"/>
         </Process>
       </TransformSet>
@@ -468,11 +468,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kije"/>
         </Process>
       </TransformSet>
@@ -482,11 +482,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ka"/>
         </Process>
       </TransformSet>
@@ -496,11 +496,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kaa"/>
         </Process>
       </TransformSet>
@@ -510,11 +510,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ki"/>
         </Process>
       </TransformSet>
@@ -524,11 +524,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kitõ"/>
         </Process>
       </TransformSet>
@@ -538,11 +538,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kaa"/>
         </Process>
       </TransformSet>
@@ -552,11 +552,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kasõ"/>
         </Process>
       </TransformSet>
@@ -566,11 +566,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ki"/>
         </Process>
       </TransformSet>
@@ -580,11 +580,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kisõ"/>
         </Process>
       </TransformSet>
@@ -594,11 +594,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõz"/>
         </Process>
       </TransformSet>
@@ -608,11 +608,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kiz"/>
         </Process>
       </TransformSet>
@@ -622,11 +622,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõssõ"/>
         </Process>
       </TransformSet>
@@ -636,11 +636,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kissõ"/>
         </Process>
       </TransformSet>
@@ -650,11 +650,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõllõ"/>
         </Process>
       </TransformSet>
@@ -664,11 +664,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="killõ"/>
         </Process>
       </TransformSet>
@@ -678,11 +678,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõl"/>
         </Process>
       </TransformSet>
@@ -692,11 +692,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kil"/>
         </Process>
       </TransformSet>
@@ -706,11 +706,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõltõ"/>
         </Process>
       </TransformSet>
@@ -720,11 +720,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kiltõ"/>
         </Process>
       </TransformSet>
@@ -734,11 +734,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõssi"/>
         </Process>
       </TransformSet>
@@ -748,11 +748,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kissi"/>
         </Process>
       </TransformSet>
@@ -762,11 +762,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kassaa"/>
         </Process>
       </TransformSet>
@@ -776,11 +776,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kissaa"/>
         </Process>
       </TransformSet>
@@ -790,11 +790,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gaka"/>
         </Process>
       </TransformSet>
@@ -804,11 +804,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kika"/>
         </Process>
       </TransformSet>
@@ -832,11 +832,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kõ"/>
         </Process>
       </TransformSet>
@@ -846,11 +846,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõd"/>
         </Process>
       </TransformSet>
@@ -860,11 +860,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ga"/>
         </Process>
       </TransformSet>
@@ -874,11 +874,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koi"/>
         </Process>
       </TransformSet>
@@ -888,11 +888,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kojõ"/>
         </Process>
       </TransformSet>
@@ -902,11 +902,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ka"/>
         </Process>
       </TransformSet>
@@ -916,11 +916,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kaa"/>
         </Process>
       </TransformSet>
@@ -930,11 +930,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koi"/>
         </Process>
       </TransformSet>
@@ -944,11 +944,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koitõ"/>
         </Process>
       </TransformSet>
@@ -958,11 +958,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ka"/>
         </Process>
       </TransformSet>
@@ -972,11 +972,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kasõ"/>
         </Process>
       </TransformSet>
@@ -986,11 +986,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koisõ"/>
         </Process>
       </TransformSet>
@@ -1000,11 +1000,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõz"/>
         </Process>
       </TransformSet>
@@ -1014,11 +1014,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koiz"/>
         </Process>
       </TransformSet>
@@ -1028,11 +1028,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõssõ"/>
         </Process>
       </TransformSet>
@@ -1042,11 +1042,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koissõ"/>
         </Process>
       </TransformSet>
@@ -1056,11 +1056,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõllõ"/>
         </Process>
       </TransformSet>
@@ -1070,11 +1070,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koillõ"/>
         </Process>
       </TransformSet>
@@ -1084,11 +1084,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõl"/>
         </Process>
       </TransformSet>
@@ -1098,11 +1098,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koil"/>
         </Process>
       </TransformSet>
@@ -1112,11 +1112,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõltõ"/>
         </Process>
       </TransformSet>
@@ -1126,11 +1126,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koiltõ"/>
         </Process>
       </TransformSet>
@@ -1140,11 +1140,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gõssi"/>
         </Process>
       </TransformSet>
@@ -1154,11 +1154,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koissi"/>
         </Process>
       </TransformSet>
@@ -1168,11 +1168,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="kassaa"/>
         </Process>
       </TransformSet>
@@ -1182,11 +1182,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koissaa"/>
         </Process>
       </TransformSet>
@@ -1196,11 +1196,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="gaka"/>
         </Process>
       </TransformSet>
@@ -1210,11 +1210,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="koika"/>
         </Process>
       </TransformSet>
@@ -1235,11 +1235,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="z"/>
         </Process>
       </TransformSet>
@@ -1249,11 +1249,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sed"/>
         </Process>
       </TransformSet>
@@ -1263,11 +1263,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="se"/>
         </Process>
       </TransformSet>
@@ -1277,11 +1277,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="si"/>
         </Process>
       </TransformSet>
@@ -1291,11 +1291,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sse"/>
         </Process>
       </TransformSet>
@@ -1305,11 +1305,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ssi"/>
         </Process>
       </TransformSet>
@@ -1319,11 +1319,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sesse"/>
         </Process>
       </TransformSet>
@@ -1333,11 +1333,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sisse"/>
         </Process>
       </TransformSet>
@@ -1347,11 +1347,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sez"/>
         </Process>
       </TransformSet>
@@ -1361,11 +1361,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="siz"/>
         </Process>
       </TransformSet>
@@ -1375,11 +1375,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sse"/>
         </Process>
       </TransformSet>
@@ -1389,11 +1389,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sissõ"/>
         </Process>
       </TransformSet>
@@ -1403,11 +1403,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" gõllõ"/>
         </Process>
       </TransformSet>
@@ -1417,11 +1417,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koillõ"/>
         </Process>
       </TransformSet>
@@ -1431,11 +1431,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" gõl"/>
         </Process>
       </TransformSet>
@@ -1445,11 +1445,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koil"/>
         </Process>
       </TransformSet>
@@ -1459,11 +1459,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" gõltõ"/>
         </Process>
       </TransformSet>
@@ -1473,11 +1473,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koiltõ"/>
         </Process>
       </TransformSet>
@@ -1487,11 +1487,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" gõssi"/>
         </Process>
       </TransformSet>
@@ -1501,11 +1501,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koissi"/>
         </Process>
       </TransformSet>
@@ -1515,11 +1515,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" kassaa"/>
         </Process>
       </TransformSet>
@@ -1529,11 +1529,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koissaa"/>
         </Process>
       </TransformSet>
@@ -1543,11 +1543,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" gaka"/>
         </Process>
       </TransformSet>
@@ -1557,11 +1557,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val=" koika"/>
         </Process>
       </TransformSet>
@@ -1582,11 +1582,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="mõz"/>
         </Process>
       </TransformSet>
@@ -1596,11 +1596,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pad"/>
         </Process>
       </TransformSet>
@@ -1610,11 +1610,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pa"/>
         </Process>
       </TransformSet>
@@ -1624,11 +1624,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paijõ"/>
         </Process>
       </TransformSet>
@@ -1638,11 +1638,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="massõ"/>
         </Process>
       </TransformSet>
@@ -1652,11 +1652,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paitõ"/>
         </Process>
       </TransformSet>
@@ -1666,11 +1666,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pasõ"/>
         </Process>
       </TransformSet>
@@ -1680,11 +1680,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paisõ"/>
         </Process>
       </TransformSet>
@@ -1694,11 +1694,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paz"/>
         </Process>
       </TransformSet>
@@ -1708,11 +1708,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paiz"/>
         </Process>
       </TransformSet>
@@ -1722,11 +1722,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="passõ"/>
         </Process>
       </TransformSet>
@@ -1736,11 +1736,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paissõ"/>
         </Process>
       </TransformSet>
@@ -1750,11 +1750,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pallõ"/>
         </Process>
       </TransformSet>
@@ -1764,11 +1764,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paillõ"/>
         </Process>
       </TransformSet>
@@ -1778,11 +1778,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pal"/>
         </Process>
       </TransformSet>
@@ -1792,11 +1792,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pail"/>
         </Process>
       </TransformSet>
@@ -1806,11 +1806,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paltõ"/>
         </Process>
       </TransformSet>
@@ -1820,11 +1820,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="pailtõ"/>
         </Process>
       </TransformSet>
@@ -1834,11 +1834,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="passi"/>
         </Process>
       </TransformSet>
@@ -1848,11 +1848,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paissi"/>
         </Process>
       </TransformSet>
@@ -1862,11 +1862,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="passaa"/>
         </Process>
       </TransformSet>
@@ -1876,11 +1876,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paissaa"/>
         </Process>
       </TransformSet>
@@ -1890,11 +1890,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paka"/>
         </Process>
       </TransformSet>
@@ -1904,11 +1904,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="paika"/>
         </Process>
       </TransformSet>
@@ -1930,15 +1930,15 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
       </TransformSet>
@@ -1948,15 +1948,15 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="d"/>
         </Process>
       </TransformSet>
@@ -1966,11 +1966,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
       </TransformSet>
@@ -1980,19 +1980,19 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="i"/>
         </Process>
       </TransformSet>
@@ -2002,19 +2002,19 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="je"/>
         </Process>
       </TransformSet>
@@ -2024,19 +2024,19 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ä"/>
         </Process>
       </TransformSet>
@@ -2046,19 +2046,19 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="i"/>
         </Process>
       </TransformSet>
@@ -2068,19 +2068,19 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ite"/>
         </Process>
       </TransformSet>
@@ -2090,19 +2090,19 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="se"/>
         </Process>
       </TransformSet>
@@ -2112,19 +2112,19 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ise"/>
         </Process>
       </TransformSet>
@@ -2134,19 +2134,19 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="z"/>
         </Process>
       </TransformSet>
@@ -2156,19 +2156,19 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iz"/>
         </Process>
       </TransformSet>
@@ -2178,15 +2178,15 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="sse"/>
         </Process>
       </TransformSet>
@@ -2196,19 +2196,19 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="isse"/>
         </Process>
       </TransformSet>
@@ -2218,15 +2218,15 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="lle"/>
         </Process>
       </TransformSet>
@@ -2236,19 +2236,19 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ille"/>
         </Process>
       </TransformSet>
@@ -2258,15 +2258,15 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="l"/>
         </Process>
       </TransformSet>
@@ -2276,19 +2276,19 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="il"/>
         </Process>
       </TransformSet>
@@ -2298,15 +2298,15 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="lte"/>
         </Process>
       </TransformSet>
@@ -2316,19 +2316,19 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ilte"/>
         </Process>
       </TransformSet>
@@ -2338,15 +2338,15 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ssi"/>
         </Process>
       </TransformSet>
@@ -2356,19 +2356,19 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="issi"/>
         </Process>
       </TransformSet>
@@ -2378,19 +2378,19 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ssaa"/>
         </Process>
       </TransformSet>
@@ -2400,19 +2400,19 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="issaa"/>
         </Process>
       </TransformSet>
@@ -2422,15 +2422,15 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ka"/>
         </Process>
       </TransformSet>
@@ -2440,19 +2440,19 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="t"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="2"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ika"/>
         </Process>
       </TransformSet>
@@ -2473,11 +2473,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2487,11 +2487,11 @@
           <feat att="grammaticalCase" val="nominative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="üü"/>
         </Process>
       </TransformSet>
@@ -2501,11 +2501,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="inu"/>
         </Process>
       </TransformSet>
@@ -2515,11 +2515,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ed̕d̕e"/>
         </Process>
       </TransformSet>
@@ -2529,11 +2529,11 @@
           <feat att="grammaticalCase" val="genitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="eije"/>
         </Process>
       </TransformSet>
@@ -2543,11 +2543,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="innua"/>
         </Process>
       </TransformSet>
@@ -2557,11 +2557,11 @@
           <feat att="grammaticalCase" val="partitive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="eite"/>
         </Process>
       </TransformSet>
@@ -2571,11 +2571,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2585,11 +2585,11 @@
           <feat att="grammaticalCase" val="illative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2599,11 +2599,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2613,11 +2613,11 @@
           <feat att="grammaticalCase" val="inessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2627,11 +2627,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="inussõ"/>
         </Process>
       </TransformSet>
@@ -2641,11 +2641,11 @@
           <feat att="grammaticalCase" val="elative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2655,11 +2655,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="illõ"/>
         </Process>
       </TransformSet>
@@ -2669,11 +2669,11 @@
           <feat att="grammaticalCase" val="allative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="eille"/>
         </Process>
       </TransformSet>
@@ -2683,11 +2683,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="ill"/>
         </Process>
       </TransformSet>
@@ -2697,11 +2697,11 @@
           <feat att="grammaticalCase" val="adessive"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="eill"/>
         </Process>
       </TransformSet>
@@ -2711,11 +2711,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2725,11 +2725,11 @@
           <feat att="grammaticalCase" val="ablative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2739,11 +2739,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2753,11 +2753,11 @@
           <feat att="grammaticalCase" val="translative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2767,11 +2767,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2781,11 +2781,11 @@
           <feat att="grammaticalCase" val="terminative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2795,11 +2795,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>
@@ -2809,11 +2809,11 @@
           <feat att="grammaticalCase" val="comitative"/>
         </GrammaticalFeatures>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addVariable"/>
           <feat att="variableNumber" val="1"/>
         </Process>
         <Process>
-          <feat att="operator" val="addAfter"/>
+          <feat att="operator" val="addConstant"/>
           <feat att="stringValue" val="iä"/>
         </Process>
       </TransformSet>

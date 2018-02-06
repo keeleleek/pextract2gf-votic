@@ -12,7 +12,7 @@ oper
 
   mkAapõ : Str -> Noun = \aapõ -> 
     case aapõ of {
-      aa + "põ" => mkAapõConcrete aa ;
+      "" => mkAapõConcrete aa ;
       _ => Predef.error "Unsuitable lemma for mkAapõ"
     } ;
 
@@ -52,7 +52,7 @@ oper
 
   mkPoikõ : Str -> Noun = \poikõ -> 
     case poikõ of {
-      poi + "kõ" => mkPoikõConcrete poi ;
+      "" => mkPoikõConcrete poi ;
       _ => Predef.error "Unsuitable lemma for mkPoikõ"
     } ;
 
@@ -94,7 +94,7 @@ oper
 
   mkAikõ : Str -> Noun = \aikõ -> 
     case aikõ of {
-      ai + "kõ" => mkAikõConcrete ai ;
+      "" => mkAikõConcrete ai ;
       _ => Predef.error "Unsuitable lemma for mkAikõ"
     } ;
 
@@ -135,7 +135,7 @@ oper
 
   mkLentüz : Str -> Noun = \lentüz -> 
     case lentüz of {
-      lentü + "z" => mkLentüzConcrete lentü ;
+      "" => mkLentüzConcrete lentü ;
       _ => Predef.error "Unsuitable lemma for mkLentüz"
     } ;
 
@@ -172,7 +172,7 @@ oper
 
   mkAmmõz : Str -> Noun = \ammõz -> 
     case ammõz of {
-      am + "mõz" => mkAmmõzConcrete am ;
+      "" => mkAmmõzConcrete am ;
       _ => Predef.error "Unsuitable lemma for mkAmmõz"
     } ;
 
@@ -209,7 +209,7 @@ oper
 
   mkTüttö : Str -> Noun = \tüttö -> 
     case tüttö of {
-      tüt + "t" + ö => mkTüttöConcrete tüt ö ;
+      "" => mkTüttöConcrete tüt ö ;
       _ => Predef.error "Unsuitable lemma for mkTüttö"
     } ;
 

@@ -110,3 +110,100 @@ declare function lab:get-lexical-resource($lang-code)
 {
   db:open($lab:db-name, $lang-code||".xml")
 };
+
+
+
+(:~ Translates a variable number with its first attestation(s) :)
+declare function lab:get-attested-value(
+  $variable-num,
+  $attested-variable-sets as element(AttestedParadigmVariableSet)+
+)
+{
+  for $set in $attested-variable-sets
+    return $set/feat[@att=$variable-num]/@val
+};
+
+
+
+(:~ Reconstructs all given attestations for the given TransformSet :)
+declare function lab:reconstruct-attested-wordforms-for-transformset(
+  $transform-set as element(TransformSet),
+  $attested-var-sets as element(AttestedParadigmVariableSet)+
+)
+as xs:string+
+{
+  (: for each attestation :)
+  for $attested-var-set in $attested-var-sets
+    (: reconstruct the attested wordform :)
+    return string-join((
+      for $process in $transform-set/Process
+        let $feats := $process/feat
+        let $operator := $process/feat[@att="operator"]/@val
+        return
+          switch ($operator)
+          case "addVariable"
+            return lab:get-attested-value(
+              $feats[@att="variableNumber"]/@val,
+              $attested-var-set
+            )
+          case "addConstant"
+            return $feats[@att="stringValue"]/@val
+          default return () (: @todo: throw error :)
+    ))
+};
+
+
+
+(:~ Returns the grammatical feats as a map :)
+declare function lab:get-grammatical-feats-as-map(
+  $transform-set as element(TransformSet)
+) as map(xs:string, xs:string+)
+{
+  map:merge(
+    for $feat in $transform-set/GrammaticalFeatures/feat
+      return map:entry(
+        string($feat/@att),
+        string($feat/@val)
+      )
+  )
+};
+
+
+
+(:~ Formats a MorphologicalPattern as HTML :)
+declare function lab:transformset-as-html(
+  $transform-set as element(TransformSet),
+  $attested-var-sets as element(AttestedParadigmVariableSet)+
+)
+(: as element(div) :)
+{
+  let $wordforms :=
+    lab:reconstruct-attested-wordforms-for-transformset(
+      $transform-set,
+      $attested-var-sets
+    )
+  
+  let $gram-feats := lab:get-grammatical-feats-as-map(
+    $transform-set
+  )
+  
+  return
+    <div>
+      <span class="plab-wordforms">
+        {string-join($wordforms,", ")}
+      </span>
+      <span class="plab-grammaticalfeats">
+        {
+          map:for-each(
+            $gram-feats,
+            function($k, $v) {
+              <span class="plab-grammaticalfeat">
+                <span class="plab-grammaticalfeat-att">{$k}</span>
+                <span class="plab-grammaticalfeat-val">{$v}</span>
+              </span>
+            }
+          )
+        }
+      </span>
+    </div>
+};

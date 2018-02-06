@@ -13,9 +13,9 @@
       <feat att="example" val="aapõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="aa"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -402,9 +402,9 @@
       <feat att="example" val="poikõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="poi"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -819,12 +819,12 @@
       <feat att="example" val="aikõ"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="ai"/>
-        </AttestedParadimVariableSet>
-        <AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="jal"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -1225,9 +1225,9 @@
       <feat att="example" val="lentüz"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="lentü"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -1572,9 +1572,9 @@
       <feat att="example" val="ammõz"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="am"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -1919,10 +1919,10 @@
       <feat att="example" val="tüttö"/>
       <feat att="partOfSpeech" val="commonNoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="tüt"/>
           <feat att="2" val="ö"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>
@@ -2463,9 +2463,9 @@
       <feat att="example" val="miä"/>
       <feat att="partOfSpeech" val="personalPronoun"/>
       <AttestedParadigmVariableSets>
-        <AttestedParadimVariableSet>
+        <AttestedParadigmVariableSet>
           <feat att="1" val="m"/>
-        </AttestedParadimVariableSet>
+        </AttestedParadigmVariableSet>
       </AttestedParadigmVariableSets>
       <TransformSet>
         <GrammaticalFeatures>

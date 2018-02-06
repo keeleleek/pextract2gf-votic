@@ -118,7 +118,7 @@ return
       let $lemma-mk := "mk" || $lemma-capitalized
       let $variables-list := $lemma-transformset/Process/feat[@att="variableNumber"]/@val
       let $first-attested-values := map:merge(
-        for $variable in ($paradigm/AttestedParadigmVariableSets)[1]/AttestedParadimVariableSet/feat
+        for $variable in ($paradigm/AttestedParadigmVariableSets)[1]/AttestedParadigmVariableSet/feat
           return map:entry(
             xs:string($variable/@att),
             $variable/@val
@@ -132,12 +132,20 @@ return
         "      ",
         string-join((
             for $process in $lemma-transformset/Process
-              let $constant := $process/feat[@att="stringValue"]/@val
-              let $variable := $process/feat[@att="variableNumber"]/@val
+              let $operator := $process/feat[@att="operator"]/@val
               return
-                if($constant)
-                then('"' || $constant || '"')
-                else(p:translate($first-attested-values, $variable))
+                switch($operator)
+                case "addVariable"
+                  return p:translate(
+                          $first-attested-values,
+                          $process/feat[@att="stringValue"]/@val
+                        )
+                case "addConstant"
+                  return concat(
+                           '"',$process/feat[@att="variableNumber"],'"'
+                         )
+                default return () (: @todo: throw error :)
+
           ), " + ")
         , " => mk" || $lemma-capitalized || "Concrete " || string-join((for $var in $variables-list return p:translate($first-attested-values, $var)), " ") || " ;"
         , out:nl(),

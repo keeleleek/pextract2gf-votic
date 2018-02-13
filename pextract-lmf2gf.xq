@@ -69,7 +69,7 @@ let $lang     := $lmf-file//Lexicon/feat[@att="language"]/@val
 let $lang-capitalized := functx:capitalize-first($lang)
 
 (: @todo instead of just the first POS, loop through all :)
-let $part-of-speeches := distinct-values($lmf-file//feat[@att="partOfSpeech"]/@val)
+let $part-of-speeches := distinct-values($lmf-file//feat[@att="partOfSpeech"]/@val)[1]
 
 (: we loop over pos for the sake of grouping all paradigms by their pos :)
 for $part-of-speech in $part-of-speeches

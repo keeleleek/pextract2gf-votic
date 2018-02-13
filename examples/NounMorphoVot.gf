@@ -1,4 +1,4 @@
-resource MorphoVot = {
+resource NounMorphoVot = {
 
 param
   Number = Sg | Pl ;

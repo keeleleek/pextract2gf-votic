@@ -1,4 +1,6 @@
 This text is taken from https://raw.githubusercontent.com/spraakbanken/karp-backend/dev/doc/manual.md
+and is edited along my progression of importing the Votic lexicon to Karp.
+Personal notes are added as any confusion is encountered.
 
 # Karp's backend
 ## Technical report and installation guide

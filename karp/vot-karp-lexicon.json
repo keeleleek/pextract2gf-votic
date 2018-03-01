@@ -1,0 +1,1817 @@
+[
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aavõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aava",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attested": "no",
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapojõ",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapa",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "attested": "no",
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapaa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavaz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aavoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavõssi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoissi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aapassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aavaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aapoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poikõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poigõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poiga",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poiki",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikije",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poika",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poikaa",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poiki",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poikaa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poikasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poiki",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikiltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigõssi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poikassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "poigaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "poikika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalkõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalgõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalga",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkojõ",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalka",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalkaa",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalka",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalkasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoiltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgõssi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalkassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "jalgaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "jalkoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aikõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aigõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aiga",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikojõ",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aika",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aikaa",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aika",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aikasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoiltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigõssi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aikassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aigaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aikoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüz",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüsed",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüse",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüsi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüsse",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüssi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüsesse",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüsisse",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüsez",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüsiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentüsse",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentüsissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü gõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü gõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü gõltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koiltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü gõssi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü kassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "lentü gaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "lentü koika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ammõz",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampad",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampa",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaijõ",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ammassõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampaz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampassõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampallõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampal",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampail",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampaltõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampailtõ",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ampaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ampaika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tüttö",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tütöd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütö",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöje",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tüttöä",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöite",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tüttöse",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöise",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tüttöz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütösse",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöisse",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütölle",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöille",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütöl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütölte",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöilte",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütössi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tüttössaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "tütöka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "tüttöika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "miä",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "müü",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "minu",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "med̕d̕e",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "meije",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "minnua",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "meite",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "minussõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "elative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "millõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "meille",
+        "grammaticalCase": "allative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "mill",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "meill",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "personalPronoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "siä",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "tämä",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "sinu",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "tämä",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "sinnua",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "tätä",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "minussõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "tämässe",
+        "grammaticalCase": "elative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "singular",
+        "writtenform": "sillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "attestedInCorpus": "Sõnakopittõja",
+        "grammaticalNumber": "plural",
+        "writtenform": "tälle",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "personalPronoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahava",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahava",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavaa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavaz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavõssi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoissi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahavaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahavoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõrõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõra",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõra",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõraa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõraz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrõssi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroissi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõrassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "ahkõraka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "ahkõroika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aitõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aijõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aija",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitojõ",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aita",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aitaa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aitasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijaz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aijoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijõssi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoissi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aitassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aitassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "aijaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "aitoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  },
+  {
+    "lexiconName": "vot",
+    "wordforms": [
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunõ",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunõd",
+        "grammaticalCase": "nominative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkuna",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoi",
+        "grammaticalCase": "genitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkuna",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoi",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoitõ",
+        "grammaticalCase": "partitive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunaa",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunasõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoisõ",
+        "grammaticalCase": "illative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunaz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoiz",
+        "grammaticalCase": "inessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunõssõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoissõ",
+        "grammaticalCase": "elative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunõllõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoillõ",
+        "grammaticalCase": "allative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunõl",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoil",
+        "grammaticalCase": "adessive"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunõssi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoissi",
+        "grammaticalCase": "ablative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunassi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoissi",
+        "grammaticalCase": "translative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunassaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoissaa",
+        "grammaticalCase": "terminative"
+      },
+      {
+        "grammaticalNumber": "singular",
+        "writtenform": "akkunaka",
+        "grammaticalCase": "comitative"
+      },
+      {
+        "grammaticalNumber": "plural",
+        "writtenform": "akkunoika",
+        "grammaticalCase": "comitative"
+      }
+    ],
+    "partOfSpeech": "commonNoun",
+    "lexiconOrder": 0
+  }
+]
